@@ -1,0 +1,16 @@
+C:\Users\MAURO\Documents\pimeiro-poo\PooBank\PooBank\bin\Debug\PooBank.exe.config
+C:\Users\MAURO\Documents\pimeiro-poo\PooBank\PooBank\bin\Debug\PooBank.exe
+C:\Users\MAURO\Documents\pimeiro-poo\PooBank\PooBank\bin\Debug\PooBank.pdb
+C:\Users\MAURO\Documents\pimeiro-poo\PooBank\PooBank\obj\Debug\PooBank.csproj.AssemblyReference.cache
+C:\Users\MAURO\Documents\pimeiro-poo\PooBank\PooBank\obj\Debug\PooBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAURO\Documents\pimeiro-poo\PooBank\PooBank\obj\Debug\PooBank.csproj.CoreCompileInputs.cache
+C:\Users\MAURO\Documents\pimeiro-poo\PooBank\PooBank\obj\Debug\PooBank.exe
+C:\Users\MAURO\Documents\pimeiro-poo\PooBank\PooBank\obj\Debug\PooBank.pdb
+C:\Users\MAURO\OneDrive - ciesglobal.org\projetos_poo_c#\PooBank\PooBank\bin\Debug\PooBank.exe.config
+C:\Users\MAURO\OneDrive - ciesglobal.org\projetos_poo_c#\PooBank\PooBank\bin\Debug\PooBank.exe
+C:\Users\MAURO\OneDrive - ciesglobal.org\projetos_poo_c#\PooBank\PooBank\bin\Debug\PooBank.pdb
+C:\Users\MAURO\OneDrive - ciesglobal.org\projetos_poo_c#\PooBank\PooBank\obj\Debug\PooBank.csproj.AssemblyReference.cache
+C:\Users\MAURO\OneDrive - ciesglobal.org\projetos_poo_c#\PooBank\PooBank\obj\Debug\PooBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAURO\OneDrive - ciesglobal.org\projetos_poo_c#\PooBank\PooBank\obj\Debug\PooBank.csproj.CoreCompileInputs.cache
+C:\Users\MAURO\OneDrive - ciesglobal.org\projetos_poo_c#\PooBank\PooBank\obj\Debug\PooBank.exe
+C:\Users\MAURO\OneDrive - ciesglobal.org\projetos_poo_c#\PooBank\PooBank\obj\Debug\PooBank.pdb
